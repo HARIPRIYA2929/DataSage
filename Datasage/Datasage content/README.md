@@ -1,0 +1,3 @@
+E-Learning_website
+
+This project aims to create an e-commerce learning website on data science using HTML, CSS, JS, Node.js, MongoDB, and Express. The website will offer various data science and AI courses and resources for different levels of learners. The website will also feature a recommendation system, a dynamic pricing system, and a customer behavior forecasting system based on machine learning algorithms. The website will provide a high-quality and personalized learning experience for the customers and increase their satisfaction and loyalty. The website will also generate more revenue and profit for the business by optimizing the prices and predicting the customer behavior.
